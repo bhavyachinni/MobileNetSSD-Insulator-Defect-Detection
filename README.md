@@ -1,10 +1,9 @@
 # Training and evaluation of MobileNet SSD model on  Insulator Dataset
 ### Dataset downloaded from <a href = "https://github.com/InsulatorData/InsulatorDataSet"> here </a>
 
-### As the dataset was in Pascal VOC format, I had to convert it into YOLO format. The tutorial was found <a href = "https://gist.github.com/Amir22010/a99f18ca19112bc7db0872a36a03a1ec"> here </a>
+### As the dataset was in Pascal VOC format, I had to convert it into SSD format.  </a>
 
-### I worked on this project during my research ineternship ar Aero2Astro
-### Guidance from Mr. Hemanth Balaji Dandi
+
 
 ### To understand how I performed training, have a look at <a href = "https://github.com/yushendye/Insulator-Defect-Detection/blob/main/YOLO_v4_Insulator_Training.ipynb"> this </a> notebook
 
