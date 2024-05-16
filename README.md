@@ -1,4 +1,4 @@
-# Training and evaluation of YOLO v4 model on Chinese Insulator Dataset
+# Training and evaluation of MobileNet SSD model on  Insulator Dataset
 ### Dataset downloaded from <a href = "https://github.com/InsulatorData/InsulatorDataSet"> here </a>
 
 ### As the dataset was in Pascal VOC format, I had to convert it into YOLO format. The tutorial was found <a href = "https://gist.github.com/Amir22010/a99f18ca19112bc7db0872a36a03a1ec"> here </a>
